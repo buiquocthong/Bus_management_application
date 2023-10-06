@@ -39,5 +39,3 @@ Project: <h1> The bus ticket booking management system application</h1>
 <br>Run ../sql/user_privilege/user_privilege.sql)</p>
 
 <p>STEP 2: Run Nhom5_K21/Form/BusTicketManagementApplication/BusTicketManagementApplication.sln</p>
-
-<p>STEP 3: Enjoy :)</p>
