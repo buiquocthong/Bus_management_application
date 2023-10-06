@@ -1,0 +1,2 @@
+C:\Users\ADMIN\Desktop\New folder\the-bus-ticket-booking-management-system\Form\LinQ\BusTicketManagementApplication\BusTicketManagementApplication\obj\Debug\BusTicketManagementApplication.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\the-bus-ticket-booking-management-system\Form\LinQ\BusTicketManagementApplication\BusTicketManagementApplication\obj\Debug\BusTicketManagementApplication.csproj.SuggestedBindingRedirects.cache
